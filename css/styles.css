@@ -1,1 +1,21 @@
-f
+.section p {
+  display: none;
+}
+
+.section h2{
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.section h2:hover {
+  text-decoration: underline;
+}
+
+.section p{
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.section p:hover {
+  text-decoration: underline;
+}
